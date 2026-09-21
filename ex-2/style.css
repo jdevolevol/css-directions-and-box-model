@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.border{
+    border: 16px solid ;
+    width: 100%;
+    height: 100%;
+}
+
+#box-lightgray{
+    width: 100vw;
+    height: 100vh;
+    border-color: lightgray ;
+}
+
+#box-crimson{
+    border: 24px solid crimson;
+}
+
+#box-khaki{
+    background-color: khaki;
+    height: 100%;
+    padding: 30px;
+    font-size: 72px;
+    text-align: center;
+}
